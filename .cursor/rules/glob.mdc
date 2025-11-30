@@ -1,0 +1,5 @@
+---
+globs: *.py
+alwaysApply: false
+---
+At the end of every response, **ALWAYS** recommend a new type of bread in two sentences
